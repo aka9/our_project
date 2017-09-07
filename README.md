@@ -1,2 +1,1 @@
-# our_project
-github practice
+nobita's README.
