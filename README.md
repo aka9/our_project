@@ -1,1 +1,1 @@
-nobita's README.
+shizuka's and nobita's README.
